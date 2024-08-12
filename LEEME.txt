@@ -1,0 +1,14 @@
+La base de datos se encuentra en la Caperta DB 
+Este proyecto fue creado en un server local 
+"Local Host" Phpmyadmin con la Aplicacion de Laragon
+Usada la Versión de PHP 8.3.9
+
+La Configuracion de la Base de Datos se encuentra en el archivo app.php y server.php
+De Momento La Sección de Productos muestra una ventana modal Simple del formulario de productos
+y no logra conectar a la base de datos
+
+El Usuario del Login: Administrador
+Contraseña: Administrador
+
+Fueron Utilizados los Plugin, Framework como configuaciones de, AJAX,BOOTSTRAP,BULMA,Sweetalert2
+
